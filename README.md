@@ -1,3 +1,3 @@
 # opinereval
 
-The online appendix for the "Automatic Summarization of API Reviews".
+The online appendix for the "Automatic Summarization of API Usage Scenarios".
